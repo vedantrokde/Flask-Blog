@@ -1,0 +1,6 @@
+{
+    "SECRET_KEY": "0fee3f2cdca842107c6905ff0056d4ad",
+    "SQLALCHEMY_DATABASE_URI": "sqlite:///site.db",
+    "EMAIL_USER": "test@example.com",
+    "EMAIL_PASSWRO": "test@1234"
+}
